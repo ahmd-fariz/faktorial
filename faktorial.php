@@ -8,6 +8,7 @@ function faktorial($n)
     }
 }
 
-$n = 0;
+$n = 5;
 $faktorial = faktorial($n);
 echo "faktorial dari $n adalah $faktorial";
+// output : faktorial dari 5 adalah 120
